@@ -1,2 +1,2 @@
 # Website
-A simple personal website with a guess the number game developed 
+A simple personal website with a guess the number game 
